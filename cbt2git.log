@@ -1,5 +1,5 @@
-2025-04-13 17:51:00.144842 - Received CBT.V505.FILE250.PDS from FILE250.XMI 
-2025-04-13 17:51:00.145479 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/$$$#DATE
-2025-04-13 17:51:00.145565 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/$$$DOC
-2025-04-13 17:51:00.145641 - Found @FILE250.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/@FILE250
-2025-04-13 17:51:00.145738 - Found DQNAME.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/DQNAME
+2025-04-15 00:53:00.924708 - Received CBT.V505.FILE250.PDS from FILE250.XMI 
+2025-04-15 00:53:00.925639 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/$$$#DATE
+2025-04-15 00:53:00.926001 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/$$$DOC
+2025-04-15 00:53:00.926356 - Found @FILE250.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/@FILE250
+2025-04-15 00:53:00.926787 - Found DQNAME.txt (text/plain) in CBT.V505.FILE250.PDS, moved to PDS/DQNAME
